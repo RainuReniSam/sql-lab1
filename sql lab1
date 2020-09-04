@@ -1,0 +1,6 @@
+create table test(usn varchar(20) primary key,name varchar(20),phoneno long,Branch varchar(4));
+insert into test values("4MT18CS068","Rahul",5568598468,"CS");
+insert into test values("4MT18CS067","Raj",7856354851,"IS");                
+insert into test values("4MT18CS065","Ramu",8463598461,"CS");
+insert into test values("4MT18CS077","Rohan",8465198541,"CV");                       
+                                                                                           
